@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581001458 source:c:\users\jakeb\desktop\cs classes\cs330\homework2\main.c
+	<sys/time.h>
+	<stdio.h>
+	<unistd.h>
+
